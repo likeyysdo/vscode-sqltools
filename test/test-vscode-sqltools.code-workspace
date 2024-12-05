@@ -217,6 +217,12 @@
         "name": "PGSQL keystore password",
         "database": "test_db",
         "username": "root"
+      },
+      {
+        "previewLimit": 50,
+        "driver": "SQLite",
+        "name": "ioo",
+        "database": "D:\\workspace\\jibu\\test\\i9i9.db"
       }
     ],
     "sqltools.languageServerEnv": {
